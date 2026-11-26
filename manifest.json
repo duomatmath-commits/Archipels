@@ -1,0 +1,16 @@
+{
+  "name": "Archipel Englouti",
+  "short_name": "Archipel",
+  "start_url": "./index.html",
+  "display": "fullscreen",
+  "orientation": "portrait",
+  "background_color": "#2594cf",
+  "theme_color": "#2594cf",
+  "icons": [
+    {
+      "src": "icon.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    }
+  ]
+}
